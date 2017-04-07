@@ -1,5 +1,55 @@
-spotify-this-song Final Countdown
-my-tweets
+movie-this 7
+Title: Furious 7
+Release Year: 2015
+Rating: 7.2
+Country: USA, Japan
+Language: English
+Plot: Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.
+Actors: Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez
+Rotten Tomatoes Rating: 79%
+--------------------------
+movie-this 7
+Title: Furious 7
+Release Year: 2015
+Rating: 7.2
+Country: USA, Japan
+Language: English
+Plot: Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.
+Actors: Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez
+Rotten Tomatoes Rating: 79%
+--------------------------
+movie-this 23
+movie-this 23
+movie-this 23
+movie-this 32
+movie-this 32
+movie-this 32
+movie-this 32
+movie-this 32
+movie-this 32
+movie-this 32
+movie-this 32
+movie-this 32
+movie-this 32
+Title: 32
+Release Year: 2012
+Rating: 4.9
+Country: Canada, USA
+Language: English
+Plot: As civilization collapses around them survivors of a deadly virus struggle to carry on while battling the horrors that remain.
+Actors: Stuart Bentley, Hailey Carr, Amira Jacobs, Cliff Liknes
+--------------------------
+do-what-it-says
+do-what-it-says
+do-what-it-says
+Title: Undefined
+Release Year: 2014
+Rating: N/A
+Country: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Lina Samman, Nour Arida, Valerie Abou Chacra, Christine Choueiri
+--------------------------
 Tweeted on Sun Jan 22 01:03:46 +0000 2017: 
 #vg03 peach is the cutest
 -------------------------- 
@@ -60,19 +110,76 @@ $4 for an AMC Gold Experience™ Ticket. Good for One Admission (... http://deal
 Tweeted on Sun Nov 14 05:40:38 +0000 2010: 
 Margarito's face got rearranged.
 -------------------------- 
-Artist: "Ty Dolla $ign"
-Album: "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]"
-Track name: "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix"
-Spotify preview: "https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null"
-Artist: "Ty Dolla $ign"
-Album: "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]"
-Track name: "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix"
-Spotify preview: "https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null"
-Artist: "The Karaoke Channel"
-Album: "The Karaoke Channel - Sing the Sign Like Ace of Base"
-Track name: "The Sign (Originally Performed by Ace of Base) [Karaoke Version]"
-Spotify preview: "https://p.scdn.co/mp3-preview/f4b3590097ad447c3c6e2114e36ab73aef6af0b8?cid=null"
-Artist: "Ace of Base"
-Album: "The Sign (US Album) [Remastered]"
-Track name: "The Sign"
-Spotify preview: "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null"
+Artist: "William Ryan Fritch"
+Album: "New Words for Old Wounds"
+Track name: "Undefined"
+Spotify preview: "https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=null"
+--------------------------
+do-what-it-says
+Tweeted on Sun Jan 22 01:03:46 +0000 2017: 
+#vg03 peach is the cutest
+-------------------------- 
+Tweeted on Sun Jan 22 01:02:24 +0000 2017: 
+#vg03 #vg13 #vg08 peach march
+-------------------------- 
+Tweeted on Sun Jan 22 01:00:49 +0000 2017: 
+#vg08 #vg13 #vg03 team Peach Pokémon
+-------------------------- 
+Tweeted on Sun Jan 22 00:58:52 +0000 2017: 
+#vg13 #vg08 I wanna see a wigglytuff
+-------------------------- 
+Tweeted on Sun Jan 22 00:56:59 +0000 2017: 
+#vg13
+-------------------------- 
+Tweeted on Sun Jan 22 00:55:43 +0000 2017: 
+#vg08 pikachuuu
+-------------------------- 
+Tweeted on Sun Jan 22 00:22:08 +0000 2017: 
+#vg08
+-------------------------- 
+Tweeted on Sun Jan 22 00:20:46 +0000 2017: 
+The video games! #vg09
+-------------------------- 
+Tweeted on Wed May 18 21:57:38 +0000 2016: 
+Hey @VirginAmerica, I'm crushing it at work, now it's time to crush some coconuts. https://t.co/EquCKg2bjn #Hawaiiscape
+-------------------------- 
+Tweeted on Tue Nov 10 07:20:14 +0000 2015: 
+Need some moolah for ootah #AmexAirBnB
+-------------------------- 
+Tweeted on Wed Jun 17 20:21:34 +0000 2015: 
+I want the drone @Crudashians #E32015
+-------------------------- 
+Tweeted on Sat Nov 08 21:36:04 +0000 2014: 
+218 #acrobotic
+-------------------------- 
+Tweeted on Mon May 05 23:38:06 +0000 2014: 
+Enter to WIN 2 #Clippers Playoff Tickets #ItsTime #ClipperNation http://t.co/FumT2wf9te
+-------------------------- 
+Tweeted on Mon Dec 09 00:04:46 +0000 2013: 
+I Just Entered to Win Blake Griffin's Jersey #Clippers http://t.co/QvYsdzxxna
+-------------------------- 
+Tweeted on Wed Sep 18 03:29:41 +0000 2013: 
+I just entered to win the @SwiftyIRL Ultimate PC from @Razer and @OriginPC.  Enter here: http://t.co/VD11oO9ykL http://t.co/zkDbZgv1Q8
+-------------------------- 
+Tweeted on Tue Jan 08 23:58:42 +0000 2013: 
+Just entered to win 2 tickets for the @LAClippers vs. @Orlando_Magic game! #MCN http://t.co/knKLiJ8t
+-------------------------- 
+Tweeted on Mon Mar 19 04:31:19 +0000 2012: 
+Join the #KorraNation movement! Like #TheLegendofKorra to unlock the premiere online before it airs: http://t.co/ulYSifzl
+-------------------------- 
+Tweeted on Sun Feb 12 05:20:42 +0000 2012: 
+Win Big at myClipper Nation via @LAClippers #GoLAC http://t.co/eBWOBy67
+-------------------------- 
+Tweeted on Tue Jan 11 00:21:17 +0000 2011: 
+$4 for an AMC Gold Experience™ Ticket. Good for One Admission (... http://deals.mamapedia.com/deals/amc-theatres-tickets-nat?ref_id=182576
+-------------------------- 
+Tweeted on Sun Nov 14 05:40:38 +0000 2010: 
+Margarito's face got rearranged.
+-------------------------- 
+do-what-it-says
+Artist: "Backstreet Boys"
+Album: "The Hits--Chapter One"
+Track name: "I Want It That Way"
+Spotify preview: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null"
+--------------------------
+
