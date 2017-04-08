@@ -57,10 +57,10 @@ function callSpotify(song){
 //Looks for movies that user searches for 
 function callOMDB(movie){
 
-	var queryUrl = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&r=json";
+	var queryUrl = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&tomatoes=true&r=json";
 
 	// This line is just to help us debug against the actual URL.
-	console.log(queryUrl);
+	// console.log(queryUrl);
 
 	request(queryUrl, function(error, response, body) {
 
@@ -75,6 +75,7 @@ function callOMDB(movie){
 		var language = "Language: " + JSON.parse(body).Language;
 		var plot = "Plot: " + JSON.parse(body).Plot;
 	    var actors = "Actors: " + JSON.parse(body).Actors;
+	    var rotten = "Rotten Tomatoes URL: " + JSON.parse(body).tomatoURL;
 	    console.log(title);
 	    console.log(releaseYear);
 	    console.log(rating);
@@ -82,8 +83,8 @@ function callOMDB(movie){
 	    console.log(language);
 	    console.log(plot);
 	    console.log(actors);
-	    // console.log(rotten);
-	    fs.appendFile("log.txt", title + "\n" + releaseYear + "\n" + rating + "\n" + country + "\n" + language + "\n" + plot + "\n" + actors + "\n--------------------------\n");
+	    console.log(rotten);
+	    fs.appendFile("log.txt", title + "\n" + releaseYear + "\n" + rating + "\n" + country + "\n" + language + "\n" + plot + "\n" + actors +  "\n" + rotten + "\n--------------------------\n");
 	  }
 	  else console.log("There was an error. Please try again.");
 	});
